@@ -1,0 +1,14 @@
+{
+  "name": "Jiot_Hardware_Test",
+  "version": "0.0.1",
+  "description": "API to test user code",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "config": "^1.27.0",
+    "js-yaml": "^3.13.1",
+    "on-finished": "^2.3.0"
+  }
+}
