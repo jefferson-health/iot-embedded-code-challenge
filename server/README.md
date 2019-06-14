@@ -1,8 +1,11 @@
 # server for accessing challenge api
 
-to run:
+to install:
 `
 npm install
+`
+to run
+`
 npm start
 `
 
