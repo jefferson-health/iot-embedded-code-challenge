@@ -6,7 +6,7 @@
     "start": "node app/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "config": "^1.27.0",
     "js-yaml": "^3.13.1",
     "on-finished": "^2.3.0"
